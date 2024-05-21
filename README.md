@@ -12,7 +12,7 @@
 Used libraries: Matplotlib, Pandas, Seaborn, NumPy, Pandas.
 Function example: drop_dupicates(), fillna(), dropna(), isnull(), mean(), merge().
 Calculations were carried out following the guidelines.
-
+The data has been grouped and finally, plots created.
 
 
 ### Built With
@@ -20,6 +20,11 @@ Calculations were carried out following the guidelines.
 [![JupyterLab-img](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/assets/162443808/8da3ff57-2505-4590-bd36-e720d7c0766c)][JupyterLab]
 
 [![Python-img](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/assets/162443808/c9a416f8-82e5-46ba-90c5-feef3cddd6ba)][Python]
+
+Plot Example:
+
+![Plot-img](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/assets/162443808/0f00e17d-352e-42ed-9157-e314fc894a5f)
+
 
 
 ## Contributing
