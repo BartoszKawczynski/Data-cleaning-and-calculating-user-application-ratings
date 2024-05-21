@@ -29,7 +29,7 @@ Plot Example:
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
@@ -59,6 +59,6 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [linkedin-url]: https://www.linkedin.com/in/bartosz-kawczy%C5%84ski-667770252/
 <!-- [product-screenshot]: images/screenshot.png -->
 [JupyterLab]: https://jupyter.org/
-[Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/
+[Project Link]: https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/tree/main
 [GoIT Polska!]: https://goit.global/pl/
 [Python]: https://www.python.org/
