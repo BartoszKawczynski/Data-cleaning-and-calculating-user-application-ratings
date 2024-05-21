@@ -9,7 +9,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Used libraries: Matplotlib, Pandas, Seaborn, NumPy, Pandas.
+Used libraries: Matplotlib, Pandas, Seaborn, NumPy.
 Function example: drop_dupicates(), fillna(), dropna(), isnull(), mean(), merge().
 Calculations were carried out following the guidelines.
 The data has been grouped and finally, plots created.
