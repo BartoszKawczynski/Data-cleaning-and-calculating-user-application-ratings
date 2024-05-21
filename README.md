@@ -59,11 +59,6 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [linkedin-url]: https://www.linkedin.com/in/bartosz-kawczy%C5%84ski-667770252/
 <!-- [product-screenshot]: images/screenshot.png -->
 [JupyterLab]: https://jupyter.org/
-[Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
+[Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/](https://github.com/BartoszKawczynski/Data-cleaning-and-calculating-user-application-ratings/
 [GoIT Polska!]: https://goit.global/pl/
 [Python]: https://www.python.org/
-
-
-[Tableau-img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/52afa679-08cf-40d2-a494-9f7e9c4095c4
-[BigQuery]: https://console.cloud.google.com/bigquery?sq=471701329260:1965c012f3a04b96bb8a803a9d81de72
-
