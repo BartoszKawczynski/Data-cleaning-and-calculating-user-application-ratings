@@ -49,9 +49,9 @@ All thanks to:
 
 [GoIT Polska!]:
 
-Data Analysis Poska, Python and Jupyter Notebook, Cleaning Data with use of Pandas library
+Block: Data Analysis Poska, Python and Jupyter Notebook, Cleaning Data with use of Pandas library
 
-other coursemates for their help and perseverance in achieving their goals - CONGRATULATIONS!!!
+Other coursemates for their help and perseverance in achieving their goals - CONGRATULATIONS!!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
